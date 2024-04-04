@@ -1,0 +1,3 @@
+/home/roman11/CLionProjects/Basic_Containers/cmake-build-debug/CMakeFiles/Basic_Containers.dir
+/home/roman11/CLionProjects/Basic_Containers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/roman11/CLionProjects/Basic_Containers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
